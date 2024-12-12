@@ -28,7 +28,9 @@ files
     "backends/imgui_impl_vulkan.h",
     "backends/imgui_impl_vulkan.cpp",
     "backends/imgui_impl_sdl.h",
-    "backends/imgui_impl_sdl.cpp"
+    "backends/imgui_impl_sdl.cpp",
+    "misc/cpp/imgui_stdlib.h",
+    "misc/cpp/imgui_stdlib.cpp"
 }
 
 filter "system:windows"
